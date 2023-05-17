@@ -1,0 +1,16 @@
+{
+  "name": "thal",
+  "version": "1.0.0",
+  "description": "some desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "SS",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.27.2",
+    "puppeteer": "^19.7.5",
+    "puppeteer-extra-plugin-user-preferences": "^2.4.1"
+  }
+}
